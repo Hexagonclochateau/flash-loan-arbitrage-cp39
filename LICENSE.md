@@ -1,4 +1,4 @@
-# 
+# updated Sniper for sandwich attack bot | degen-coin-scanning & MEV-detection is the best sandwich attack bot, featuring degen-coin-scanning and MEV-detection. Fast, smart, and
 
 
 
